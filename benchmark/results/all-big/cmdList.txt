@@ -1,0 +1,417 @@
+/mnt/origin/testField/ALL
+mpirun -np 1 ior -w -r -b 1G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 1G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 2G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 5G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -b 10G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 1G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 2G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 5G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 1 ior -w -r -F -b 10G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 5G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 10G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 5G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 10G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 1G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 2G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 5G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -b 10G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 1G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 2G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 5G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 3 ior -w -r -F -b 10G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 1G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 2G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 5G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -b 10G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 1G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 2G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 5G -t 4M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 4k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 8k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 16k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 32k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 64k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 128 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 256 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 512 -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 1M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 2M -o /mnt/origin/testField/ALL/testfile
+mpirun -np 4 ior -w -r -F -b 10G -t 4M -o /mnt/origin/testField/ALL/testfile

@@ -1,0 +1,9 @@
+/mnt/origin/testField/ALL
+mpirun -np 2 ior -w -r -b 1G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 1G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -b 2G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 1G -t 2k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 1k -o /mnt/origin/testField/ALL/testfile
+mpirun -np 2 ior -w -r -F -b 2G -t 2k -o /mnt/origin/testField/ALL/testfile

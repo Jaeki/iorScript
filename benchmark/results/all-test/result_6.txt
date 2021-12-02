@@ -1,0 +1,41 @@
+IOR-3.3.0: MPI Coordinated Test of Parallel I/O
+Began               : Fri Dec  3 00:13:08 2021
+Command line        : ior -w -r -F -b 2G -t 1k -o /mnt/origin/testField/ALL/testfile
+Machine             : Linux MiWiFi-CR6606-srv
+TestID              : 0
+StartTime           : Fri Dec  3 00:13:08 2021
+Path                : /mnt/origin/testField/ALL
+FS                  : 2.2 TiB   Used FS: 0.1%   Inodes: 34.1 Mi   Used Inodes: 0.0%
+
+Options: 
+api                 : POSIX
+apiVersion          : 
+test filename       : /mnt/origin/testField/ALL/testfile
+access              : file-per-process
+type                : independent
+segments            : 1
+ordering in a file  : sequential
+ordering inter file : no tasks offsets
+nodes               : 1
+tasks               : 2
+clients per node    : 2
+repetitions         : 1
+xfersize            : 1024 bytes
+blocksize           : 2 GiB
+aggregate filesize  : 4 GiB
+
+Results: 
+
+access    bw(MiB/s)  IOPS       Latency(s)  block(KiB) xfer(KiB)  open(s)    wr/rd(s)   close(s)   total(s)   iter
+------    ---------  ----       ----------  ---------- ---------  --------   --------   --------   --------   ----
+write     271.18     280124     0.000007    2097152    1.00       0.000982   14.97      2.41       15.10      0   
+read      648.22     783363     0.000003    2097152    1.00       0.278528   5.35       1.39       6.32       0   
+remove    -          -          -           -          -          -          -          -          4.84       0   
+Max Write: 271.18 MiB/sec (284.35 MB/sec)
+Max Read:  648.22 MiB/sec (679.71 MB/sec)
+
+Summary of all tests:
+Operation   Max(MiB)   Min(MiB)  Mean(MiB)     StdDev   Max(OPs)   Min(OPs)  Mean(OPs)     StdDev    Mean(s) Stonewall(s) Stonewall(MiB) Test# #Tasks tPN reps fPP reord reordoff reordrand seed segcnt   blksiz    xsize aggs(MiB)   API RefNum
+write         271.18     271.18     271.18       0.00  277684.56  277684.56  277684.56       0.00   15.10456         NA            NA     0      2   2    1   1     0        1         0    0      1 2147483648     1024    4096.0 POSIX      0
+read          648.22     648.22     648.22       0.00  663777.55  663777.55  663777.55       0.00    6.31884         NA            NA     0      2   2    1   1     0        1         0    0      1 2147483648     1024    4096.0 POSIX      0
+Finished            : Fri Dec  3 00:13:35 2021
