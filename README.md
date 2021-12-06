@@ -39,9 +39,14 @@ python3 totalMark.py options/test.options results/test/
 
 - markAnalyzer
 
-python3 markAnalyzer.py results_path
+python3 markAnalyzer.py results_path OST# OST_TYPE
+
+OST_TYPE
+  1:SSD
+  2:HDD
+  3:MIXED
 
 ```
-python3 markAnalyzer.py results/test
+python3 markAnalyzer.py results/test/ 4 2
 ```
 
