@@ -8,7 +8,7 @@ Lustre Test 스크립트
 
 
 # Step
-1. Load MPI module (module load mpi/openmpi-x86_64)
+1. Load MPI module (# module load mpi/openmpi-x86_64)
 
 2. Make options for test (totalMark/options/)
   - options는 .options의 확장자를 가져야 함
@@ -23,6 +23,8 @@ Lustre Test 스크립트
 5. markAnalyzer 실행
 
 # Run
+
+포함된 .sh 참조
 
 - iorMark
 ```
