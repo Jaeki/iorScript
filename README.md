@@ -28,18 +28,20 @@ Lustre Test 스크립트
 포함된 .sh 참조
 
 - totalMark
-```
+
 python3 totalMark.py options_path results_path
 
-(example) python3 totalMark.py options/test.options results/test
+```
+python3 totalMark.py options/test.options results/test/
 ```
 
 
 
 - markAnalyzer
-```
+
 python3 markAnalyzer.py results_path
 
-(example) python3 markAnalyzer.py results/test
+```
+python3 markAnalyzer.py results/test
 ```
 
