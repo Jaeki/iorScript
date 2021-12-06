@@ -21,7 +21,7 @@ Lustre Test 스크립트
     - transfer : -t 옵션 변수 (transfer size)
     - process : 측정 thread 갯수
     
-4. iorMark 실행
+4. totalMark 실행
 5. markAnalyzer 실행
 
 6. (옵션) fileStatistics를 실행해서 참고
