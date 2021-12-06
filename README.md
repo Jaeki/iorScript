@@ -6,6 +6,7 @@ Lustre Test 스크립트
 2. lustre iokit (obdfilter survey) 벤치마크 - 예정
 3. 1,2를 포함하는 totalMark.py - 미완
 4. 결과 추출기 - markAnalyzer.py 
+5. 폴더내의 모든 파일 크기 분석기 - fileStatistics.py
 
 
 # Step
@@ -22,6 +23,8 @@ Lustre Test 스크립트
     
 4. iorMark 실행
 5. markAnalyzer 실행
+
+6. (옵션) fileStatistics를 실행해서 참고
 
 # Run
 
@@ -50,3 +53,10 @@ OST_TYPE
 python3 markAnalyzer.py results/test/ 4 2
 ```
 
+- fileStatistics
+
+python3 markAnalyzer.py target_dir_path
+
+```
+python3 markAnalyzer.py /home/byeonghyun/repo
+```
