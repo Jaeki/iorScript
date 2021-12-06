@@ -15,11 +15,11 @@ Lustre Test 스크립트
 2. Make options for test (totalMark/options/)
   - options는 .options의 확장자를 가져야 함
   - key:val1,val2 형식 (아래는 key에 대한 설명)
-    - target:테스트 폴더, 미리 stripe가 설정된 lustre 폴더
-    - stripe:target에서 설정된 lustre stripe 갯수
-    - block:-b 옵션 변수 (block size)
-    - transfer:-t 옵션 변수 (transfer size)
-    - process: 측정 thread 갯수
+    - target : 테스트 폴더, 미리 stripe가 설정된 lustre 폴더
+    - stripe : target에서 설정된 lustre stripe 갯수
+    - block : -b 옵션 변수 (block size)
+    - transfer : -t 옵션 변수 (transfer size)
+    - process : 측정 thread 갯수
     
 4. iorMark 실행
 5. markAnalyzer 실행
