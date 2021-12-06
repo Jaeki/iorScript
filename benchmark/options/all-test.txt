@@ -1,6 +1,0 @@
-target:/mnt/origin/testField/ALL
-process:2
-share:True,False
-bypass:True,False
-block:1G,2G
-transfer:1k,2k

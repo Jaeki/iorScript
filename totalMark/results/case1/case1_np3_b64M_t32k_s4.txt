@@ -1,0 +1,46 @@
+Write:858.45
+Read:2500.51
+Write(IOP):26197.79
+Read(IOP):76309.38
+------------------------------------------
+IOR-3.3.0: MPI Coordinated Test of Parallel I/O
+Began               : Mon Dec  6 18:06:03 2021
+Command line        : ior -w -r -b 64M -t 32k -o /mnt/origin/testField/stripe-4/testfile
+Machine             : Linux lustre-client
+TestID              : 0
+StartTime           : Mon Dec  6 18:06:03 2021
+Path                : /mnt/origin/testField/stripe-4
+FS                  : 2.2 TiB   Used FS: 14.6%   Inodes: 34.1 Mi   Used Inodes: 0.0%
+
+Options: 
+api                 : POSIX
+apiVersion          : 
+test filename       : /mnt/origin/testField/stripe-4/testfile
+access              : single-shared-file
+type                : independent
+segments            : 1
+ordering in a file  : sequential
+ordering inter file : no tasks offsets
+nodes               : 1
+tasks               : 3
+clients per node    : 3
+repetitions         : 1
+xfersize            : 32768 bytes
+blocksize           : 64 MiB
+aggregate filesize  : 192 MiB
+
+Results: 
+
+access    bw(MiB/s)  IOPS       Latency(s)  block(KiB) xfer(KiB)  open(s)    wr/rd(s)   close(s)   total(s)   iter
+------    ---------  ----       ----------  ---------- ---------  --------   --------   --------   --------   ----
+write     818.68     71423      0.000042    65536      32.00      0.004641   0.086023   0.153440   0.234524   0   
+read      2384.67    334174     0.000006    65536      32.00      0.066269   0.018386   0.005749   0.080514   0   
+remove    -          -          -           -          -          -          -          -          0.026491   0   
+Max Write: 818.68 MiB/sec (858.45 MB/sec)
+Max Read:  2384.67 MiB/sec (2500.51 MB/sec)
+
+Summary of all tests:
+Operation   Max(MiB)   Min(MiB)  Mean(MiB)     StdDev   Max(OPs)   Min(OPs)  Mean(OPs)     StdDev    Mean(s) Stonewall(s) Stonewall(MiB) Test# #Tasks tPN reps fPP reord reordoff reordrand seed segcnt   blksiz    xsize aggs(MiB)   API RefNum
+write         818.68     818.68     818.68       0.00   26197.79   26197.79   26197.79       0.00    0.23452         NA            NA     0      3   3    1   0     0        1         0    0      1 67108864    32768     192.0 POSIX      0
+read         2384.67    2384.67    2384.67       0.00   76309.38   76309.38   76309.38       0.00    0.08051         NA            NA     0      3   3    1   0     0        1         0    0      1 67108864    32768     192.0 POSIX      0
+Finished            : Mon Dec  6 18:06:05 2021

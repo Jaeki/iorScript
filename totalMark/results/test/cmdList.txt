@@ -1,0 +1,2 @@
+/mnt/origin/testField/stripe-4/
+mpirun -np 1 ior -w -r -b 1k -t 1k -o /mnt/origin/testField/stripe-4/testfile

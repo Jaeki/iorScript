@@ -1,0 +1,5 @@
+target:/mnt/origin/testField/stripe-4/
+stripe:4
+block:1k
+transfer:1k
+process:1
