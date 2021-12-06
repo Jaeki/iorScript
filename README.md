@@ -29,12 +29,16 @@ Lustre Test 스크립트
 - iorMark
 ```
 python3 totalMark/iorMark.py options_path results_path
+
+(example) python3 totalMark/iorMark.py totalMark/options/test.options totalMark/results/test
 ```
-example) python3 totalMark/iorMark.py totalMark/options/test.options totalMark/results/test
+
 
 
 - markAnalyzer
 ```
 python3 totalMark/markAnalyzer.py results_path
+
+(example) python3 totalMark/markAnalyzer.py totalMark/results/test
 ```
-example) python3 totalMark/markAnalyzer.py totalMark/results/test
+
