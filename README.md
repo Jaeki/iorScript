@@ -39,7 +39,7 @@ python3 totalMark.py options/test.options results/test/
 
 - markAnalyzer
 
-python3 markAnalyzer.py results_path OST# OST_TYPE
+python3 markAnalyzer.py results_path NUMBER_OF_OST OST_TYPE
 
 OST_TYPE
   1:SSD
