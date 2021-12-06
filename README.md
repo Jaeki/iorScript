@@ -4,7 +4,8 @@ Lustre Test 스크립트
 포함된 것 
 1. ior벤치마크 - iorMark.py
 2. lustre iokit (obdfilter survey) 벤치마크 - 예정
-3. 결과 추출기 - markAnalyzer.py 
+3. 1,2를 포함하는 totalMark.py - 미완
+4. 결과 추출기 - markAnalyzer.py 
 
 
 # Step
@@ -26,19 +27,19 @@ Lustre Test 스크립트
 
 포함된 .sh 참조
 
-- iorMark
+- totalMark
 ```
-python3 totalMark/iorMark.py options_path results_path
+python3 totalMark.py options_path results_path
 
-(example) python3 totalMark/iorMark.py totalMark/options/test.options totalMark/results/test
+(example) python3 totalMark.py options/test.options results/test
 ```
 
 
 
 - markAnalyzer
 ```
-python3 totalMark/markAnalyzer.py results_path
+python3 markAnalyzer.py results_path
 
-(example) python3 totalMark/markAnalyzer.py totalMark/results/test
+(example) python3 markAnalyzer.py results/test
 ```
 
