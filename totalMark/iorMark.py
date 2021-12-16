@@ -39,7 +39,7 @@ class iorBench:
     def makeCommands(self):
 
         self.cmd = []
-        basis = 'ior -w -r'
+        basis = '--allow-run-as-root ior -w -r'
 
         for processOps in self.options['process']:
             
@@ -73,6 +73,7 @@ class iorBench:
 
         optionName = self.path.split('/')[-1].split('.')[0]
         cmd = cmd.split('-o')[0].replace(' ','').replace('mpirun','').replace('-w-r','').replace('ior','').replace('-','_')
+        cmd = cmd.replace('_allow_run_as_root_', '')
         
         return optionName+cmd+'_s'+str(self.options['stripe'][0])
 
